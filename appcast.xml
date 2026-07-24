@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Vega Tal</title>
+        <item>
+            <title>2.1.7</title>
+            <pubDate>Fri, 24 Jul 2026 09:23:42 +0000</pubDate>
+            <link>https://github.com/hello-amed/VegaTal-Updates</link>
+            <sparkle:version>2.1.7</sparkle:version>
+            <sparkle:shortVersionString>2.1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Vega Tal 2.1.7
+
+## What Changed
+
+- [fix(hotkeys): handle synthesized modifier events explicitly](https://github.com/hello-amed/VegaTal/commit/30d454d64ea6e16abac4d7ca2f37827a4e2d7427)
+
+**Full changelog**: https://github.com/hello-amed/VegaTal/compare/ab5bae05ba7af796fb428d313741b8153895aa88...30d454d64ea6e16abac4d7ca2f37827a4e2d7427
+]]></description>
+            <enclosure url="https://hello-amed.github.io/VegaTal-Updates/Vega-Tal-2.1.7.zip" length="23583040" type="application/octet-stream" sparkle:edSignature="SjKkPImpjshirBDvCVqPBOBpAzYAg4lKdDsPFBc7bW18xnQZFFDE9XpV8mJka9FADIq4t4iWlp7ojMHrgI0aBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://hello-amed.github.io/VegaTal-Updates/Vega%20Tal2.1.7-2.1.6.delta" sparkle:deltaFrom="2.1.6" length="1189706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IV7/h444r/QK20auOiBa+J0JLwjIkDCfjEWtUAqBEPJUwF1ngjUpxK17QPunsA7xTrPZbjYkU+7AxvviaZQcBQ=="/>
+                <enclosure url="https://hello-amed.github.io/VegaTal-Updates/Vega%20Tal2.1.7-2.1.5.delta" sparkle:deltaFrom="2.1.5" length="2029406" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5/cylwwDTTrmdYI3+RJN6/cc1EV0jBiGBIKDxmS8BX8v/ftFVqk9iqpoQAgRAWYS8IqNna3B3OoNA3uxiOvzDQ=="/>
+                <enclosure url="https://hello-amed.github.io/VegaTal-Updates/Vega%20Tal2.1.7-2.1.4.delta" sparkle:deltaFrom="2.1.4" length="2066410" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NLG5e8Am9swoH/YqmIcYEFJyqOxfQPB5n2nLpysPb+GYBHSTU7pg+OXchGbK42KDElY0KCcNZ6jmdEXSgpetAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>2.1.6</title>
+            <pubDate>Fri, 24 Jul 2026 05:58:22 +0000</pubDate>
+            <link>https://github.com/hello-amed/VegaTal-Updates</link>
+            <sparkle:version>2.1.6</sparkle:version>
+            <sparkle:shortVersionString>2.1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://hello-amed.github.io/VegaTal-Updates/Vega-Tal-2.1.6.zip" length="23581858" type="application/octet-stream" sparkle:edSignature="D3eqLtFr8WybFaXDNAYhLz7BaKPBVeKY1k0oT9tj2aBEzOWgoLeLbkI8qbn1Ov88O2mle7oyEokiheueADj8Bg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://hello-amed.github.io/VegaTal-Updates/Vega%20Tal2.1.6-2.1.5.delta" sparkle:deltaFrom="2.1.5" length="2024386" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="C79Y033SZ1az8E9LiAKR10Omrm5YpDuDBZBoEpZbpSCP+l3y725HWiWpTJH0gaDHnbsrf7prsBbQRY+Wb7lCBg=="/>
+                <enclosure url="https://hello-amed.github.io/VegaTal-Updates/Vega%20Tal2.1.6-2.1.4.delta" sparkle:deltaFrom="2.1.4" length="2082486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KidWhhg4sXWFKWx8AitRkuEeSNf71oBOQUfoodToem2oGw6aoDcF+GYk9oT9otN2cAB/7IfFLWgdw0esYRGfAA=="/>
+                <enclosure url="https://hello-amed.github.io/VegaTal-Updates/Vega%20Tal2.1.6-2.1.3.delta" sparkle:deltaFrom="2.1.3" length="2081882" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YF4kpLpPLXSL0AD+odrDOCeGlsK4nHHiXq45XnlLxz52HzlKxTPZlil00+5tKn3Qm1FGQssvMdX3pRBiQD4QBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>2.1.5</title>
+            <pubDate>Fri, 24 Jul 2026 04:15:56 +0000</pubDate>
+            <link>https://github.com/hello-amed/VegaTal-Updates</link>
+            <sparkle:version>2.1.5</sparkle:version>
+            <sparkle:shortVersionString>2.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://hello-amed.github.io/VegaTal-Updates/Vega-Tal-2.1.5.zip" length="23569664" type="application/octet-stream" sparkle:edSignature="hPdVK8qOsqj/DbEYe0eLqSiARZ0/3eziuni4BRfdUOYldwl+uIihgMmS0dF/Lz5sbP3Pd16G/cEWIHkvJtOBBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://hello-amed.github.io/VegaTal-Updates/Vega%20Tal2.1.5-2.1.4.delta" sparkle:deltaFrom="2.1.4" length="1967042" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="08m6BJJxDmsW8lER8z/M2o62XkURWeZ1yWfXMU7oIb4ew52UjhlZUCAic6sf7ckHvyy4chkqouJEKsOtTpr/DQ=="/>
+                <enclosure url="https://hello-amed.github.io/VegaTal-Updates/Vega%20Tal2.1.5-2.1.3.delta" sparkle:deltaFrom="2.1.3" length="1970378" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SLc48wTL58SCQzj1PQAoKUM+6mnePBJX/ggYLJ6Ucif/Y9rZfzWdtOexyUqo5XoUw0GtTwq/8ta5CDF2sAUsCw=="/>
+                <enclosure url="https://hello-amed.github.io/VegaTal-Updates/Vega%20Tal2.1.5-2.1.2.delta" sparkle:deltaFrom="2.1.2" length="12370554" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gVvbCfH7Z/aBqy/8uCrMxAlj/NfVtxRwL6KfHngp6oy0swK6D3FYAR7BK7GTSIYlLRDtyG/D7uEhtSIdfnMDBQ=="/>
+            </sparkle:deltas>
+        </item>
+    </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: 2MxeBlDEhiITyGghlfxsBmSijQ7Cz21wg/q97F3eTYQJOSypxhAKduVRm88jJdmQOba2Df67r9f9ZfNRgZqACg==
+length: 6815
+-->
